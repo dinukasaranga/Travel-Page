@@ -1,0 +1,61 @@
+
+
+main content and paragraphs in my webpage
+========== ABOUT  ==========
+
+.about__description
+All the trips around the world are a great 
+pleasure and happiness for anyone, enjoy 
+the sights when you travel the world. Travel 
+safely and without worries, get your trip and 
+explore the paradises of the world.
+
+.button
+Explore Travel
+
+
+========== EXPLORE ==========
+.section__title
+Explore The <br> 
+Best Paradises
+
+.explore__description
+Exploring paradises such as islands and 
+valleys when traveling the world is one of 
+the greatest experiences when you travel, it 
+offers you harmony and peace and you 
+can enjoy it with great comfort.
+
+.explore__name
+Paul Jeams
+
+========== FOOTER ==========
+
+
+footer__title .footer__link
+About
+ About Us
+ Features
+ News & Blog
+
+Company
+ FAQs
+ History
+ Testimonials
+
+Contact
+ Call Center
+ Support Center
+ Contact Us
+
+Support
+ Privacy Policy
+ Terms & Services
+ Payments
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
